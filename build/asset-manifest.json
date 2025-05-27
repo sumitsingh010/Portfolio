@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dede6838.css",
+    "main.js": "/static/js/main.1aa05f6e.js",
+    "static/js/453.fa62705e.chunk.js": "/static/js/453.fa62705e.chunk.js",
+    "static/media/home.jpg": "/static/media/home.3568b4825de8334b4f01.jpg",
+    "static/media/Thumbs.db": "/static/media/Thumbs.735170b30af6b4c4247f.db",
+    "static/media/interiorfinal.png": "/static/media/interiorfinal.7297fda55492fc2df7e5.png",
+    "static/media/weather.jpg": "/static/media/weather.e43831c0dfbe26e403ba.jpg",
+    "static/media/SkillNotionSlider.jpg": "/static/media/SkillNotionSlider.6d1aa6e459319202e129.jpg",
+    "static/media/Cars.jpg": "/static/media/Cars.e001ad2b2095a0b84102.jpg",
+    "static/media/UpdatedResume.pdf": "/static/media/UpdatedResume.8d8fe4038c5b60dd69d0.pdf",
+    "static/media/weathermodel.jpg": "/static/media/weathermodel.0f740f3e6746d63fdf34.jpg",
+    "static/media/EnigmaSliderfinal.jpg": "/static/media/EnigmaSliderfinal.ec27cc34a4857f4756e6.jpg",
+    "static/media/budget.jpg": "/static/media/budget.001d12a11725e0250971.jpg",
+    "static/media/paypal mod.jpg": "/static/media/paypal mod.b139bff14b43ca92f01d.jpg",
+    "static/media/budgetbuddy.jpg": "/static/media/budgetbuddy.09e3923de91401e151a6.jpg",
+    "static/media/Paypal.jpg": "/static/media/Paypal.f36a7a1b4ac3b69fb7bc.jpg",
+    "static/media/task mngmt.jpg": "/static/media/task mngmt.7004f67aa0a0d1198ea6.jpg",
+    "static/media/interiorfinal.jpg": "/static/media/interiorfinal.22912da5532c1ac40ede.jpg",
+    "static/media/EnigmaModal.jpg": "/static/media/EnigmaModal.8f33665d1fa270d4c4a6.jpg",
+    "static/media/interiormodel.jpg": "/static/media/interiormodel.ee53de3855f291570135.jpg",
+    "static/media/Task Management Dashboard.jpg": "/static/media/Task Management Dashboard.923d7ebd40622d8bedfc.jpg",
+    "static/media/retro car.jpg": "/static/media/retro car.bbc472b1ccf1208ef6d8.jpg",
+    "static/media/Text Wizards.jpg": "/static/media/Text Wizards.38869ec14d74e8372e5f.jpg",
+    "static/media/interior.jpg": "/static/media/interior.344f5acb14fda36fb93e.jpg",
+    "static/media/txt analyser tool.jpeg": "/static/media/txt analyser tool.3b10c1617dabaf1a4bae.jpeg",
+    "static/media/SkillNotionModal.jpg": "/static/media/SkillNotionModal.646dbfa10d9c5a73086e.jpg",
+    "static/media/expensemodel.jpg": "/static/media/expensemodel.314cf4b549d4fbedaf28.jpg",
+    "static/media/logo.jpg": "/static/media/logo.fe3dc7fdd80a6a99a48a.jpg",
+    "index.html": "/index.html",
+    "static/media/Untitled-1.txt": "/static/media/Untitled-1.b21c15f1036907729a8f.txt",
+    "main.dede6838.css.map": "/static/css/main.dede6838.css.map",
+    "main.1aa05f6e.js.map": "/static/js/main.1aa05f6e.js.map",
+    "453.fa62705e.chunk.js.map": "/static/js/453.fa62705e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dede6838.css",
+    "static/js/main.1aa05f6e.js"
+  ]
+}
