@@ -1,0 +1,77 @@
+.education-container {
+  display: flex;
+  gap: 2rem; /* Adds space between cards */
+  justify-content: center; /* Aligns cards horizontally */
+  flex-wrap: wrap; /* Ensures responsiveness by wrapping cards on smaller screens */
+}
+
+.education-card {
+  background: #00e5fe;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 2rem; /* Increased padding for larger cards */
+  width: 350px; /* Increased width for larger cards */
+  text-align: left;
+  transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+    box-shadow 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  overflow: hidden;
+}
+
+.education-card:hover {
+  transform: scale(2) rotate(180deg); /* Adds scaling and slight rotation */
+  box-shadow: 0 20px 24px rgba(0, 0, 0, 0.2); /* Deepens shadow on hover */
+}
+
+/* Add animated gradient effect */
+.education-card::before {
+  content: "";
+  position: absolute;
+  top: -50%;
+  left: -50%;
+  width: 200%;
+  height: 200%;
+  background: linear-gradient(
+    45deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(0, 229, 254, 0.2)
+  );
+  transform: rotate(45deg);
+  transition: opacity 0.4s ease;
+  opacity: 0;
+  z-index: 0;
+}
+
+.education-card:hover::before {
+  opacity: 1; /* Makes the gradient appear on hover */
+}
+
+.education-degree {
+  font-size: 2rem; /* Larger font size */
+  font-weight: bold;
+  color: black;
+  position: relative;
+  z-index: 1; /* Ensures the text stays above the gradient */
+}
+
+.education-info {
+  font-size: 1.5rem; /* Increased font size */
+  color: black;
+  margin: 0.5rem 0;
+  position: relative;
+  z-index: 1;
+}
+
+.education-year {
+  font-size: 2rem; /* Slightly larger year text */
+  font-weight: bold;
+  color: #535a61;
+  position: relative;
+  z-index: 1;
+}
+
+.score {
+  font-size: 2rem; /* Larger font size */
+  font-weight: bold;
+  color: black;
+}

@@ -1,0 +1,97 @@
+{
+  "home": "Home",
+  "about": "About me",
+  "services": "Services",
+  "projects": "Projects",
+  "contact": "Contact",
+
+  "site-web": "websites",
+  "games": "games",
+
+  "greeting": "Hello",
+  "name": "I am Sumit Singh",
+  "role": "Full Stack developer",
+
+  "im": "who I am",
+  "description": "My name is Sumit Singh and I am a Full Stack developer.",
+  "my-description": "Self-motivated Full Stack Developer passionate about learning new technologies and building scalable, user-friendly web applications.",
+  "years": "Age: ",
+  "from": "From: ",
+  "btn-know-more": "Read more",
+  "tools": "Languages & Tools",
+
+  "DSA": "Data Structures & Algorithms",
+  "DSA-info": "I specialize in building optimized solutions for real-world algorithmic challenges, backed by hands-on experience solving 200+ Data Structures and Algorithms problems across platforms like LeetCode, GeeksforGeeks, and HackerRank.",
+  "development": "Web development",
+  "development-info": "I create clean, responsive web pages with thoughtful layouts, smooth interactions, and modern color palettes — all designed to deliver an engaging and satisfying user experience.",
+  "backend": "Backend Development",
+  "backend-info": "I build scalable and secure backend systems, integrating databases and APIs to ensure seamless data flow and high-performance web applications.",
+  "maintenance": " Management",
+  "social-media-info": "As a Core Team Member of the IETE Student Forum at MITS, I contribute to event planning, team coordination, and strategic outreach—playing a key role in fostering student engagement, managing operations, and driving the forum’s overall growth.",
+  "CleanCode": " Codeing & Collaboration",
+  "cleancode-info": "I write clean, efficient, and maintainable code, with a strong focus on collaboration and delivering impactful projects through effective teamwork and clear communication.",
+  "optimization": "Website optimization",
+  "website-optimization-info": "I optimize web performance by enhancing loading speed, compressing assets, refining URLs, and implementing best practices — ensuring a faster, smoother, and more user-friendly browsing experience.",
+
+  "btn-more-projects": "More projects",
+
+  "contact-info": "Contact me by: ",
+
+  "footer-info": "Page created by Sumit Singh. All rights reserved.",
+
+  "about-info-1": "Hi! Im Sumit Singh, a third-year Computer Science and Engineering student with a strong foundation in Data Structures and Algorithms. I've solved over 200+ problems across platforms like LeetCode, GeeksforGeeks, and HackerRank — sharpening my analytical thinking and problem-solving skills with every challenge.",
+
+  "about-info-2": "As a Full Stack Developer, I specialize in building responsive and dynamic web interfaces using HTML, CSS, JavaScript, and React. I'm currently expanding my backend expertise through the MERN stack (MongoDB, Express.js, React, Node.js), and have hands-on experience with tools like Redux for state management, Tailwind CSS for sleek UI design, and Bootstrap for mobile-first responsiveness. I'm passionate about creating fast, scalable, and user-friendly web applications.",
+
+  "about-info-3": "Beyond coding, I focus on writing clean, scalable, and maintainable code that powers real-world solutions. I enjoy collaborating with teams and continuously learning new technologies to build user-centric, impactful applications. I'm always open to connecting and working on innovative projects that make a difference.",
+
+  "Resume": "Resume",
+
+  "services-questions": "Frequent questions",
+  "services-questions-1": "How do I ensure good website performance and loading speed?",
+  "services-questions-p1": "I prioritize performance optimization by using lightweight assets, lazy loading, image compression, and efficient code structure. I also implement caching strategies and performance testing tools like Lighthouse to deliver fast-loading, high-performing web applications.",
+
+  "services-questions-2": "Which tools and technologies do I prefer in my workflow?",
+  "services-questions-p2": "I work with the MERN stack (MongoDB, Express, React, Node.js), and often use Redux for state management, Tailwind CSS or Bootstrap for styling, Git & GitHub for version control, and VS Code as my primary development environment.",
+
+  "services-questions-3": "How do I approach problem-solving in development?",
+  "services-questions-p3": "I break down problems into smaller parts, evaluate potential solutions, and implement the most efficient approach. My background in DSA helps me write optimized logic, and I test thoroughly to ensure reliability.",
+
+  "services-questions-4": "Can I handle both frontend and backend development?",
+  "services-questions-p4": "Yes, as a Full Stack Developer, Im comfortable working on both ends. I enjoy creating seamless UI/UX experiences on the frontend and building secure, scalable APIs and databases on the backend to support them.",
+
+
+
+  "projects-link": "Link:",
+  "projects-tec": "Used technology:",
+
+  "projects-info-1-p1": "Built a responsive Personal Blog using HTML, CSS, and JavaScript to showcase posts and portfolio content with a clean, minimal design optimized for all devices.",
+  "projects-info-1-p2": "The site is fully optimized for different screen sizes, ensuring seamless viewing across mobile, tablet, and desktop devices. Its minimal design and structured content make it ideal for static publishing or as a foundation for future CMS integration.",
+
+  "projects-info-2-p1": "Built an Employee Management System using Python and Django, designed to manage employee records with functionalities like add, update, delete, and search.",
+  "projects-info-2-p2": "The system features a clean UI, responsive design, and efficient backend integration, making it ideal for practicing full-stack development and database-driven applications.",
+
+  "projects-info-3-p1": "Developed a visually engaging eCommerce website, Fre-male, using HTML, CSS, and JavaScript. The site features a modern, vibrant design with bold typography, smooth transitions, and responsive layouts. It showcases a wide range of fashion and lifestyle products, offering intuitive navigation and an interactive shopping experience.",
+  "projects-info-3-p2": "The project features smooth animations and interactive hover effects. JavaScript enhances the experience with dynamic elements such as product carousels, modals, and notification toasts. The responsive design ensures seamless browsing and shopping across all devices, creating an engaging and modern eCommerce experience.",
+
+  
+ 
+  
+  "projects-info-4-p1": "Developed a Recipes website using HTML, CSS, and JavaScript, featuring a user-friendly interface for browsing, searching, and viewing various recipes. The site includes dedicated pages for recipe details, categories, and a responsive layout that adapts seamlessly to different devices. Smooth transitions and interactive elements enhance the user experience, making it easy to discover and manage favorite recipes.",
+  "projects-info-4-p2": "The website adapts effortlessly to any screen size, ensuring a consistent experience on all devices. JavaScript powers dynamic features such as recipe filtering and interactive elements, while CSS animations deliver smooth transitions for a visually appealing and intuitive user interface.",
+
+  "projects-info-5-p1": "Built a responsive Tourist Website using HTML, CSS, and JavaScript, showcasing travel destinations and packages with an engaging layout.",
+  "projects-info-5-p2": "Showcases responsive layouts optimized for different screen sizes, ensuring a seamless user experience and Demonstrates proficiency in Tailwind CSS for utility-first styling and Framer Motion for dynamic UI elements.",
+
+  "projects-info-6-p1": "Developed an Apple Homepage Clone using HTML, CSS, and JavaScript, replicating the design and layout of Apple’s official website. The project focuses on pixel-perfect UI, smooth scrolling, and clean section transitions to mirror the premium feel of Apple’s branding.",
+  "projects-info-6-p2": "The clone is fully responsive and showcases attention to detail in animations, grid layouts, and typography. It serves as a front-end practice project to sharpen skills in recreating real-world, high-fidelity web interfaces.",
+
+  "projects-info-7-p1": "Developed a responsive Restaurant Template using HTML, CSS, and JavaScript, designed to showcase menus, specials, and reservations in a modern layout.",
+  "projects-info-7-p2": " The template features a clean UI, smooth scrolling, and mobile optimization, making it a solid front-end project for hospitality and food service websites.",
+
+  "projects-info-8-p1": "3D Haunted House is an immersive and interactive 3D web experience designed to simulate a spooky haunted house environment. Built using Three.js, HTML, and CSS, the project combines real-time 3D rendering with smooth user interactions to create a visually engaging environment",
+  "projects-info-8-p2": "The project features realistic lighting effects, dynamic object interactions, and a user-friendly interface that allows users to navigate through the haunted house. The use of Three.js enables complex 3D animations and effects, enhancing the overall experience.",
+
+  "projects-info-9-p1": "Developed the official website for Enigma, the tech fest of MITSDU — a fully responsive, secure, and feature-rich platform crafted with modern web technologies to deliver an engaging user experience.",
+  "projects-info-9-p2": "Engineered robust features ranging from seamless user authentication to event access and management, with a strong emphasis on security, scalability, and performance — successfully supporting over 4,500 live users and 700+ registered participants."
+}
